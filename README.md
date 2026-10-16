@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi, I'm Hassan Revel
+
+I'm an AI Engineer based in Islamabad, Pakistan, building real-world AI systems across healthcare, business automation, and intelligent applications.
+
+My work connects language models, AI agents, APIs, databases, and backend infrastructure to create software people can actually use.
+
+I'm particularly interested in agentic AI, retrieval-augmented generation (RAG), healthcare AI, and production-ready applications.
 
 <!--
 **hassanrevel/hassanrevel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
